@@ -1,0 +1,30 @@
+.mope {
+  width: 11.111%;
+  height: 11.1%;
+  float: left;
+}
+.mope:after {
+}
+.img {
+  float: left;
+  width: 33.333%;
+  height: 400px;
+}
+.main2 {
+  float: left;
+}
+.main {
+  clear: left;
+  display: block;
+}
+.happy {
+  text-align: center;
+  display: block;
+  font-size: 100px;
+  background-color: red;
+}
+.footer {
+  display: block;
+  height: 190px;
+  background-color: red;
+}
